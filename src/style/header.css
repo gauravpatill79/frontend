@@ -1,0 +1,17 @@
+.header {
+    background-color: rgb(12 10 9);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex; /* Makes the header a flex container */
+    justify-content: center; /* Aligns items to the opposite ends of the container */
+    align-items: center; /* Aligns items vertically in the middle of the container */
+    padding: 2rem 2rem; /* Adds padding to the header */
+  }
+  .header h1 {
+    color: rgba(255, 255, 255, 0.906); /* Assuming the text color in the image is white */
+    font-size: 1.5rem; /* Adjust the font size as needed */
+    margin: 0; /* Remove default margin */
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  }
+ 
